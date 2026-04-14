@@ -42,6 +42,36 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/geometric-vase-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/the-signature-mug-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/mini-succulent-planter-trio/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/sculptural-incense-burner-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/textured-trinket-dish-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
