@@ -1,0 +1,16 @@
+2026-04-13T21:20:57-04:00 CRITICAL Out of memory (allocated 41943040 bytes) (tried to allocate 36864 bytes) in /workspaces/Final-Exam/.wordpress/wp-admin/includes/admin.php on line 91
+
+2026-04-13T21:20:57-04:00 CRITICAL Out of memory (allocated 41943040 bytes) (tried to allocate 36864 bytes) in /workspaces/Final-Exam/.wordpress/wp-admin/includes/admin.php on line 91
+
+2026-04-13T21:20:57-04:00 CRITICAL Out of memory (allocated 41943040 bytes) (tried to allocate 36864 bytes) in /workspaces/Final-Exam/.wordpress/wp-admin/includes/admin.php on line 91
+
+2026-04-13T21:20:57-04:00 CRITICAL Out of memory (allocated 41943040 bytes) (tried to allocate 36864 bytes) in /workspaces/Final-Exam/.wordpress/wp-admin/includes/admin.php on line 91
+
+2026-04-13T21:45:23-04:00 CRITICAL Out of memory (allocated 262144000 bytes) (tried to allocate 156250000 bytes) in /workspaces/Final-Exam/.wordpress/wp-includes/class-wp-image-editor-gd.php on line 118
+
+2026-04-13T21:45:23-04:00 CRITICAL Out of memory (allocated 262144000 bytes) (tried to allocate 156250000 bytes) in /workspaces/Final-Exam/.wordpress/wp-includes/class-wp-image-editor-gd.php on line 118
+
+2026-04-13T21:45:23-04:00 CRITICAL Out of memory (allocated 262144000 bytes) (tried to allocate 156250000 bytes) in /workspaces/Final-Exam/.wordpress/wp-includes/class-wp-image-editor-gd.php on line 118
+
+2026-04-13T21:45:23-04:00 CRITICAL Out of memory (allocated 262144000 bytes) (tried to allocate 156250000 bytes) in /workspaces/Final-Exam/.wordpress/wp-includes/class-wp-image-editor-gd.php on line 118
+
